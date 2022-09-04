@@ -1,0 +1,606 @@
+﻿Age at First Birth ;Age of menarche
+Age at First Birth ;Intellectual disability
+Age at First Birth ;Fertility
+Age at First Birth ;Hypogonadism
+Age at Menarche ;precocious puberty
+Age at Menarche ;amenorrhea
+Age at Menarche ;polycystic ovarian syndrome
+Age at Menarche ;PCOS
+Age at Menarche ;Oligomenorrhea
+Age at Menarche ;Low estradiol
+Age at Menarche ;endocrinological dysfunction
+Age at Menarche ;hypothalamic dysfunction
+Age at Menarche ;hypothalamic dysregulation
+Age at Menarche ;hypogonadism
+Age at Menarche ;premature ovarian failure
+Age at Menarche ;premature menarche
+Age at Menarche ;pituitary dysfunction
+Age at Menarche ;pituitary dysregulation
+Age at Menarche ;sexual precocity
+Age at Menarche ;rapid virilization
+Age at Menarche ;decreased fertility
+Age at Menarche ;increased fertility
+Age at Menopause ;amenorrhea
+Age at Menopause ;polycystic ovarian syndrome
+Age at Menopause ;PCOS
+Age at Menopause ;Oligomenorrhea
+Age at Menopause ;Low estradiol
+Age at Menopause ;endocrinological dysfunction
+Age at Menopause ;hypothalamic dysfunction
+Age at Menopause ;hypothalamic dysregulation
+Age at Menopause ;hypogonadism
+Age at Menopause ;premature ovarian failure
+Age at Menopause ;Insomnia
+Age at Menopause ;Fatigue
+Age at Menopause ;Hot flashes
+Age at Menopause ;pituitary dysfunction
+Age at Menopause ;pituitary dysregulation
+Age at Menopause ;decreased fertility
+Age at Menopause ;increased fertility
+Age-related Macular Degeneration;Leaky blood vessels
+Age-related Macular Degeneration;Maculopathy
+Age-related Macular Degeneration;Macular hemorrhage
+Age-related Macular Degeneration;Large hard drusen
+Age-related Macular Degeneration;Foveal scarring
+Age-related Macular Degeneration;neovascularization
+Alzheimers Disease;Neurodegeneration
+Alzheimers Disease;Depression
+Alzheimers Disease;Senile dementia
+Alzheimers Disease;Presenile dementia
+Alzheimers Disease;Neurofibrillary tangle
+Alzheimers Disease;Abeta plaques
+Alzheimers Disease;cerebral amyloid angiopathy
+Alzheimers Disease;Amyloidosis
+Alzheimers Disease;Ventriculomegaly
+Alzheimers Disease;Amyloid a-beta
+Alzheimers Disease;Parkinsonian
+Anxiety ;emotional stability
+Anxiety ;Anxiety
+Anxiety ;Depression
+Anxiety ;Moodiness
+Anxiety ;Low self esteem
+Anxiety ;diffidence
+Anxiety ;Panic
+Anxiety ;Pain tolerance
+Autism ;Asperger Syndrome
+Autism ;Poor social skills
+Autism ;Repetitive behaviors
+Autism ;Communication problems
+Autism ;Pervasive developmental disorder
+Autism ;Developmental Regression
+Bipolar Disorder ;Bipolar affective disorder
+Bipolar Disorder ;Psychosis
+Bipolar Disorder ;Mania
+Bipolar Disorder ;hypomania
+Bipolar Disorder ;Depressive psychosis
+Bipolar Disorder ;Panic
+Bipolar Disorder ;hyperactivity
+Birthweight;Intrauterine growth restriction
+Birthweight;undergrowth
+Birthweight;small for gestational age
+Birthweight;dwarf
+Birthweight;failure to thrive
+Birthweight;hemihypertrophy
+Birthweight;Overgrowth
+Birthweight;Gigantism
+Birthweight;Large for gestational age
+Birthweight;hyperglycemia
+Birthweight;poor growth
+Body Fat Percentage ;overweight
+Body Fat Percentage ;central obesity
+Body Fat Percentage ;visceral fat
+Body Fat Percentage ;Leanness
+Body Fat Percentage ;Increased BMI
+Body Fat Percentage ;Morbid obesity
+Body Fat Percentage ;Weight gain
+Body Fat Percentage ;Hyperphagia
+Body Fat Percentage ;Anorexia
+Body Fat Percentage ;Cachexia
+Body Mass Index ;overweight
+Body Mass Index ;central obesity
+Body Mass Index ;visceral fat
+Body Mass Index ;leanness
+Body Mass Index ;undergrowth
+Body Mass Index ;intrauterine growth restriction
+Body Mass Index ;obesity
+Body Mass Index ;increased body weight
+Body Mass Index ;truncal obesity
+Body Mass Index ;abdominal obesity
+Body Mass Index ;overgrowth
+Body Mass Index ;anorexia
+Body Mass Index ;underweight
+Body Mass Index ;cachexia
+Body Mass Index ;appetite regulation
+Bone Mineral Density;osteoporosis
+Bone Mineral Density;osteopetrosis
+Bone Mineral Density;fracture
+Bone Mineral Density;hypercalcemia
+Bone Mineral Density;parathyroid
+Bone Mineral Density;osteosclerosis
+Bone Mineral Density;bone resorption
+Bone Mineral Density;bone absorption
+Bone Mineral Density;stones
+Bone Mineral Density;osteoarthritis
+Bone Mineral Density;Pycnodysostosis
+Bone Mineral Density;Osteopoikilosis
+Bone Mineral Density;Melorheostosis
+Bone Mineral Density;Sclerosteosis
+Bone Mineral Density;metaphyseal dysplasia
+Bone Mineral Density;myelofibrosis
+Celiac Disease ;impaired growth
+Celiac Disease ;Diarrhea
+Celiac Disease ;abdominal distention
+Celiac Disease ;vomiting 
+Celiac Disease ;defective humoral immunity
+Celiac Disease ;defective adaptive immunity
+Celiac Disease ;autoimmunity
+Celiac Disease ;autoantibody
+Celiac Disease ;lymphoma
+Celiac Disease ;B-cell abnormality
+Celiac Disease ;T-cell abnormality
+Celiac Disease ;immunodeficiency
+Celiac Disease ;immune dysregulation
+Celiac Disease ;immunologic hypersensitivity
+Celiac Disease ;autoantibodies
+Celiac Disease ;Abdominal pain
+Celiac Disease ;Intestine inflammation
+Celiac Disease ;Alopecia
+Childhood Body Mass Index ;overweight
+Childhood Body Mass Index ;central obesity
+Childhood Body Mass Index ;visceral fat
+Childhood Body Mass Index ;leanness
+Childhood Body Mass Index ;undergrowth
+Childhood Body Mass Index ;intrauterine growth restriction
+Childhood Body Mass Index ;obesity
+Childhood Body Mass Index ;increased body weight
+Childhood Body Mass Index ;truncal obesity
+Childhood Body Mass Index ;abdominal obesity
+Childhood Body Mass Index ;overgrowth
+Childhood Body Mass Index ;anorexia
+Childhood Body Mass Index ;underweight
+Childhood Body Mass Index ;cachexia
+Childhood Body Mass Index ;appetite regulation
+Childhood Body Mass Index ;hypertriglyceridemia
+Childhood Body Mass Index ;hypercholesterolemia
+Childhood Body Mass Index ;premature atherosclerosis
+Childhood Body Mass Index ;vascular calcification
+Childhood Body Mass Index ;premature Coronary artery disease
+Childhood Body Mass Index ;myocardial infarction
+Childhood Body Mass Index ;cardiomyopathy
+Childhood Body Mass Index ;aortic wall thickness
+Childhood Body Mass Index ;medial hyperplasia
+Childhood Body Mass Index ;plaque formation
+Childhood Body Mass Index ;supravalvular aortic stenosis
+Childhood Body Mass Index ;Xanthelasma
+Childhood Body Mass Index ;Xanthoma
+Childhood Body Mass Index ;dyslipidemia
+Coronary Artery Disease ;Heart disease
+Coronary Artery Disease ;Plaques
+Coronary Artery Disease ;hypertriglyceridemia
+Coronary Artery Disease ;hypercholesterolemia
+Coronary Artery Disease ;premature atherosclerosis
+Coronary Artery Disease ;vascular calcification
+Coronary Artery Disease ;premature Coronary artery disease
+Coronary Artery Disease ;myocardial infarction
+Coronary Artery Disease ;cardiomyopathy
+Coronary Artery Disease ;aortic wall thickness
+Coronary Artery Disease ;medial hyperplasia
+Coronary Artery Disease ;plaque formation
+Coronary Artery Disease ;supravalvular aortic stenosis
+Coronary Artery Disease ;Xanthelasma
+Coronary Artery Disease ;Xanthoma
+Coronary Artery Disease ;Heart attack
+Coronary Artery Disease ;chest pain
+Coronary Artery Disease ;coronary angioplasty
+Coronary Artery Disease ;coronary artery bypass surgery
+Coronary Artery Disease ;coronary artery anomaly
+Coronary Artery Disease ;elevated troponin
+Coronary Artery Disease ;elevated CKMB
+Crohns Disease ;gastrointestinal ulceration
+Crohns Disease ;growth failure
+Crohns Disease ;failure to thrive
+Crohns Disease ;arthritis
+Crohns Disease ;B-cell abnormality
+Crohns Disease ;T-cell abnormality
+Crohns Disease ;immunodeficiency
+Crohns Disease ;immune dysregulation
+Crohns Disease ;immunologic hypersensitivity
+Crohns Disease ;defective humoral immunity
+Crohns Disease ;autoimmunity
+Crohns Disease ;autoantibody
+Crohns Disease ;intestinal ulceration
+Depression ;Anxiety
+Depression ;Depression
+Depression ;Fatigue
+Depression ;Insomnia
+Depression ;Hyperactivity
+Education ;memory
+Education ;dyslexia
+Education ;intellectual disability
+Education ;learning disability
+Education ;epilepsy
+Education ;memory loss
+Education ;memory impairment
+Education ;short term memory
+Education ;long term memory
+Extra-Glomerular Filtration Rate (Creatinine) ;Diabetes
+Extra-Glomerular Filtration Rate (Creatinine) ;Polycystic kidney
+Extra-Glomerular Filtration Rate (Creatinine) ;Renal cysts
+Extra-Glomerular Filtration Rate (Creatinine) ;Fibrosis
+Extra-Glomerular Filtration Rate (Creatinine) ;Renal failure
+Extra-Glomerular Filtration Rate (Creatinine) ;Enlarged kidneys
+Extra-Glomerular Filtration Rate (Creatinine) ;Small kidneys
+Extra-Glomerular Filtration Rate (Creatinine) ;Polyhydramnios
+Extra-Glomerular Filtration Rate (Creatinine) ;Renal agenesis
+Extra-Glomerular Filtration Rate (Creatinine) ;Nephropathy
+Extra-Glomerular Filtration Rate (Creatinine) ;Corticomedullary failure
+Fasting Insulin ;diabetes mellitus
+Fasting Insulin ;glucose sensitivity
+Fasting Insulin ;ketonemia
+Fasting Insulin ;pancreatic insufficiency
+Fasting Insulin ;hyperglycemia
+Fasting Insulin ;hyperglycemic
+Fasting Insulin ;c-peptide
+Fasting Insulin ;pancreatic hypoplasia
+Fasting Insulin ;autoimmune
+Fasting Insulin ;hyperinsulinemia
+Fasting Insulin ;insulin resistance
+Height ;undergrowth
+Height ;short stature
+Height ;small for gestational age
+Height ;dwarf
+Height ;tall stature
+Height ;failure to thrive
+Height ;hemihypertrophy
+Height ;hemimelia
+Height ;amelia
+Height ;limb shortening
+Height ;short limb dwarfism
+Height ;increased linear growth
+Hemoglobin ;Small Red Blood Cells
+Hemoglobin ;microcytic anemia
+Hemoglobin ;macrocytic anemia
+Hemoglobin ;thalassemia
+Hemoglobin ;anemia
+Hemoglobin ;abnormality of erythrocytes
+Hemoglobin ;abnormal erythroid cells
+Hemoglobin ;polycythemia
+Hemoglobin ;extramedullary hematopoiesis
+Hemoglobin ;abnormality of red blood cells
+Hemoglobin ;hemolysis
+Hemoglobin ;abnormal morphology
+Hemoglobin ;porphyria
+Hemoglobin ;hydrop
+Hemoglobin A1C ;hyperinsulinemia
+Hemoglobin A1C ;insulin resistance
+Hemoglobin A1C ;pancreatic hypoplasia
+Hemoglobin A1C ;diabetes mellitus
+Hemoglobin A1C ;pancreatic failure
+HOMA-B ;beta cell agenesis
+HOMA-B ;beta cell dysgenesis
+HOMA-B ;C-peptide
+HOMA-B ;pancreatic insufficiency
+HOMA-B ;hypertriglyceridemia
+HOMA-B ;neonatal diabetes mellitus
+HOMA-B ;lipodystrophy
+HOMA-B ;acanthosis nigricans
+HOMA-B ;cachexia
+HOMA-B ;Gestational diabetes
+HOMA-B ;diabetes
+HOMA-B ;muscle wasting
+HOMA-B ;Glucosuria
+Inflammatory Bowel Disease ;colitis
+Inflammatory Bowel Disease ;enteritis
+Inflammatory Bowel Disease ;gastrointestinal ulceration
+Inflammatory Bowel Disease ;growth failure
+Inflammatory Bowel Disease ;failure to thrive
+Inflammatory Bowel Disease ;inflammatory arthritis
+Inflammatory Bowel Disease ;complement activation
+Inflammatory Bowel Disease ;abnormal immune regulation
+Inflammatory Bowel Disease ;B-cell abnormality
+Inflammatory Bowel Disease ;T-cell abnormality
+Inflammatory Bowel Disease ;immunodeficiency
+Inflammatory Bowel Disease ;immune dysregulation
+Inflammatory Bowel Disease ;immunologic hypersensitivity
+Inflammatory Bowel Disease ;defective humoral immunity
+Inflammatory Bowel Disease ;defective adaptive immunity
+Inflammatory Bowel Disease ;autoimmunity
+Inflammatory Bowel Disease ;autoantibody
+Inflammatory Bowel Disease ;intestinal ulceration
+Inflammatory Bowel Disease ;crohns disease
+Inflammatory Bowel Disease ;gastrointestinal tract granulomas
+Insulin Resistance & Fasting Glucose ;lipodystrophy
+Insulin Resistance & Fasting Glucose ;acanthosis nigricans
+Insulin Resistance & Fasting Glucose ;cortisol
+Insulin Resistance & Fasting Glucose ;hypercortisolism
+Insulin Resistance & Fasting Glucose ;cushing
+Insulin Resistance & Fasting Glucose ;hepatic steatosis
+Insulin Resistance & Fasting Glucose ;cirrhosis
+Insulin Resistance & Fasting Glucose ;cachexia
+Insulin Resistance & Fasting Glucose ;Gestational diabetes
+Insulin Resistance & Fasting Glucose ;diabetes
+Insulin Resistance & Fasting Glucose ;muscle wasting
+Insulin Resistance & Fasting Glucose ;Glucosuria
+Kidney Disease ;Polycystic kidney
+Kidney Disease ;Renal cysts
+Kidney Disease ;Fibrosis
+Kidney Disease ;Renal failure
+Kidney Disease ;Enlarged kidneys
+Kidney Disease ;Polyhydramnios
+Kidney Disease ;Renal agenesis
+Kidney Disease ;Glomerulosclerosis
+Kidney Disease ;Microalbumin
+Kidney Disease ;proteinuria
+Kidney Disease ;Renal hypertension
+Leptin ;Hypothalamus
+Leptin ;Obesity
+Leptin ;Energy homeostasis
+Leptin ;Adiposity
+Leptin ;Weight loss
+Leptin ;overweight
+Leptin ;central obesity
+Leptin ;visceral fat
+Leptin ;leanness
+Lupus ;joint pain
+Lupus ;joint damage
+Lupus ;degenerative joint disease
+Lupus ;autoantibodies
+Lupus ;Rash
+Lupus ;Hair loss
+Lupus ;Ulcers
+Lupus ;Raynauds syndrome
+Lupus ;Raynaud syndrome
+Lupus ;Photosensitivity
+Lupus ;Weight loss
+Lupus ;Anemia
+Lupus ;Fatigue
+Lupus ;Kidney failure
+Lupus ;Creatinine
+Lupus ;systemic lupus erythematosus
+Lupus ;pericarditis
+Lupus ;pleuritis
+Lupus ;nephritis
+Lupus ;erythematous malar rash
+Lupus ;discoid rash
+Lupus ;antiphospholipid antibody
+Lupus ;antinuclear antibody
+Lupus ;dsDNA antibody
+Lupus ;complement deficiency
+Major Depression ;Depression
+Major Depression ;Anhedonic
+Major Depression ;Pyschomotor delay
+Major Depression ;Decreased energy
+Major Depression ;emotional
+Major Depression ;Fatigue
+Major Depression ;Insomnia
+Major Depression ;Suicide
+Major Depression ;suicidal
+Major Depression ;Weight loss
+Major Depression ;Weight gain
+Microalbuminuria ;Microalbumin
+Microalbuminuria ;Kidney failure
+Microalbuminuria ;End stage kidney disease
+Microalbuminuria ;Proteinuria
+Multiple Sclerosis ;defective humoral immunity
+Multiple Sclerosis ;defective adaptive immunity
+Multiple Sclerosis ;autoimmunity
+Multiple Sclerosis ;autoantibody
+Multiple Sclerosis ;immunodeficiency
+Multiple Sclerosis ;immune dysregulation
+Multiple Sclerosis ;immunologic hypersentivity
+Multiple Sclerosis ;Axonal demyelination
+Multiple Sclerosis ;Double vision
+Multiple Sclerosis ;Poor muscle coordination
+Multiple Sclerosis ;Neuronal plaques
+Multiple Sclerosis ;Diplopia
+Multiple Sclerosis ;Depression cognitive dysfunction
+Multiple Sclerosis ;Spasticity
+Multiple Sclerosis ;Paresthesia
+Multiple Sclerosis ;Sensory loss
+Multiple Sclerosis ;CSF immunoglobulins
+Multiple Sclerosis ;HLA-DRB1
+Multiple Sclerosis ;recurrent infection
+Neuroticism ;Anxiety
+Neuroticism ;Panic disorder
+Neuroticism ;Depression
+Neuroticism ;Neurosis
+Neuroticism ;Psychiatric
+Neuroticism ;Obsessive-compulsive
+Neuroticism ;hyperactivity
+Neuroticism ;emotional stability
+Packed Cell Volume ;disseminated intravascular coagulation
+Packed Cell Volume ;DIC
+Packed Cell Volume ;thrombophilia
+Packed Cell Volume ;splenomegaly
+Packed Cell Volume ;thrombosis
+Packed Cell Volume ;abnormal thrombosis
+Packed Cell Volume ;abnormal bleeding
+Packed Cell Volume ;megakaryocytes
+Packed Cell Volume ;preeclampsia
+Packed Cell Volume ;thrombotic microangiopathy
+Packed Cell Volume ;asplenia
+Packed Cell Volume ;INR
+Packed Cell Volume ;PT
+Packed Cell Volume ;prolonged bleeding
+Platelet Count ;disseminated intravascular coagulation
+Platelet Count ;DIC
+Platelet Count ;thrombophilia
+Platelet Count ;splenomegaly
+Platelet Count ;thrombosis
+Platelet Count ;abnormal thrombosis
+Platelet Count ;abnormal bleeding
+Platelet Count ;megakaryocytes
+Platelet Count ;preeclampsia
+Platelet Count ;thrombotic microangiopathy
+Platelet Count ;asplenia
+Platelet Count ;INR
+Platelet Count ;PT
+Platelet Count ;prolonged bleeding
+Platelet Count ;epistaxis
+Platelet Count ;hemarthroses
+Platelet Count ;easy bruising
+Platelet Count ;platelet aggregation defect
+Platelet Count ;increased bleeding
+Primary Biliary Cirrhosis ;Itchy
+Primary Biliary Cirrhosis ;pruritis
+Primary Biliary Cirrhosis ;defective humoral immunity
+Primary Biliary Cirrhosis ;defective adaptive immunity
+Primary Biliary Cirrhosis ;Autoimmunity
+Primary Biliary Cirrhosis ;Hypocholesterolemia
+Primary Biliary Cirrhosis ;autoantibody
+Primary Biliary Cirrhosis ;B-cell abnormality
+Primary Biliary Cirrhosis ;T-cell abnormality
+Primary Biliary Cirrhosis ;immunodeficiency
+Primary Biliary Cirrhosis ;immune dysregulation
+Primary Biliary Cirrhosis ;immunologic hypersentivity
+Primary Biliary Cirrhosis ;Autoantibodies
+Primary Biliary Cirrhosis ;Bone pain
+Primary Biliary Cirrhosis ;Hyperpigmentation
+Primary Biliary Cirrhosis ;Xanthomas
+Primary Biliary Cirrhosis ;Steatorrhea
+Primary Biliary Cirrhosis ;Hypothyroidism
+Primary Biliary Cirrhosis ;hypercholesterolemia
+Primary Biliary Cirrhosis ;polycythemia
+Primary Biliary Cirrhosis ;impaired in vitro IgG suppression
+Primary Biliary Cirrhosis ;biliary cirrhosis
+Primary Biliary Cirrhosis ;serum mitochondrial autoantibodies
+Primary Biliary Cirrhosis ;porphyria
+Red Blood Cell Count ;anemia
+Red Blood Cell Count ;polycythemia
+Red Blood Cell Count ;extramedullary hematopoiesis
+Red Blood Cell Count ;abnormality of red blood cells
+Red Blood Cell Count ;hemolysis
+Red Blood Cell Count ;thalassemia
+Red Blood Cell Count ;abnormal morphology
+Red Blood Cell Count ;porphyria
+Red Blood Cell Count ;hydrop
+Resting Heart Rate ;tachycardia
+Resting Heart Rate ;Bradycardia
+Resting Heart Rate ;Cardiac Arrhythmia
+Resting Heart Rate ;syncope
+Resting Heart Rate ;Arrythmogenic
+Resting Heart Rate ;Irregular heart rhythm
+Resting Heart Rate ;Abnormal heart rhythm
+Resting Heart Rate ;Prolonged QT
+Resting Heart Rate ;Sinus bradycardia
+Resting Heart Rate ;Sinus tachycardia
+Resting Heart Rate ;Syncope
+Resting Heart Rate ;Heart block
+Resting Heart Rate ;Sudden cardiac death
+Resting Heart Rate ;Atrial fibrillation
+Resting Heart Rate ;Sinus node dysfunction
+Resting Heart Rate ;Torsade de pointes 
+Resting Heart Rate ;Sudden cardiac death
+Resting Heart Rate ;Ventricular tachycardia
+Rheumatoid Arthritis ;defective humoral immunity
+Rheumatoid Arthritis ;defective adaptive immunity
+Rheumatoid Arthritis ;autoimmunity
+Rheumatoid Arthritis ;autoantibody
+Rheumatoid Arthritis ;lymphoma
+Rheumatoid Arthritis ;B-cell abnormality
+Rheumatoid Arthritis ;T-cell abnormality
+Rheumatoid Arthritis ;immunodeficiency
+Rheumatoid Arthritis ;immune dysregulation
+Rheumatoid Arthritis ;immunologic hypersentivity
+Rheumatoid Arthritis ;joint pain
+Rheumatoid Arthritis ;joint damage
+Rheumatoid Arthritis ;degenerative joint disease
+Rheumatoid Arthritis ;autoantibodies
+Rheumatoid Arthritis ;rheumatoid arthritis
+Schizophrenia ;paranoia
+Schizophrenia ;paranoid delusions
+Schizophrenia ;psychosis
+Schizophrenia ;hallucinations
+Schizophrenia ;delusions
+Schizophrenia ;catatonia
+Schizophrenia ;parkinsonism
+Schizophrenia ;dementia
+Schizophrenia ;parakinesis
+Schizophrenia ;psychomotor disturbances
+Schizophrenia ;neuronal pruning
+Schizophrenia ;schizophrenia
+Schizophrenia ;hyperactivity
+Schizophrenia ;disorganized speech
+Schizophrenia ;catatonic behavior
+Schizophrenia ;abnormal EEG
+Serum Urate Concentration ;Uric acid
+Serum Urate Concentration ;Urolithiaisis
+Serum Urate Concentration ;Urolithiasis
+Serum Urate Concentration ;Nephrolithiasis
+Serum Urate Concentration ;Uricemia
+Serum Urate Concentration ;Kidney stones
+Serum Urate Concentration ;Bladder stones
+Serum Urate Concentration ;Arthritis
+Serum Urate Concentration ;Acute pain
+Serum Urate Concentration ;Crystals
+Serum Urate Concentration ;Tophi
+Serum Urate Concentration ;Urate nephropathy
+Serum Urate Concentration ;podagra
+Subjective Sense of Well-Being ;Happiness
+Subjective Sense of Well-Being ;Good nature
+Subjective Sense of Well-Being ;Happy
+Subjective Sense of Well-Being ;Extraversion
+Subjective Sense of Well-Being ;Introvert
+Subjective Sense of Well-Being ;Laughter
+Subjective Sense of Well-Being ;Excitable
+Subjective Sense of Well-Being ;optimistic
+Two-Hour Fasting Glucose ;diabetes mellitus
+Two-Hour Fasting Glucose ;glucose sensitivity
+Two-Hour Fasting Glucose ;ketonemia
+Two-Hour Fasting Glucose ;pancreatic insufficiency
+Two-Hour Fasting Glucose ;hyperglycemia
+Two-Hour Fasting Glucose ;hyperglycemic
+Two-Hour Fasting Glucose ;c-peptide
+Two-Hour Fasting Glucose ;pancreatic hypoplasia
+Two-Hour Fasting Glucose ;autoimmune
+Two-Hour Fasting Glucose ;hyperinsulinemia
+Two-Hour Fasting Glucose ;insulin resistance
+Two-Hour Fasting Glucose ;hyperinsulinemia
+Two-Hour Fasting Glucose ;insulin resistance
+Two-Hour Fasting Glucose ;pancreatic hypoplasia
+Two-Hour Fasting Glucose ;diabetes mellitus
+Two-Hour Fasting Glucose ;pancreatic failure
+Type 1 Diabetes ;diabetes mellitus
+Type 1 Diabetes ;glucose sensitivity
+Type 1 Diabetes ;ketonemia
+Type 1 Diabetes ;pancreatic insufficiency
+Type 1 Diabetes ;hyperglycemia
+Type 1 Diabetes ;hyperglycemic
+Type 1 Diabetes ;c-peptide
+Type 1 Diabetes ;pancreatic hypoplasia
+Type 1 Diabetes ;autoimmune
+Type 1 Diabetes ;hyperinsulinemia
+Type 1 Diabetes ;insulin resistance
+Type 1 Diabetes ;hyperglycemia
+Type 1 Diabetes ;polydipsia
+Type 1 Diabetes ;polyphagia
+Type 1 Diabetes ;ketoacidosis
+Type 1 Diabetes ;polyuria
+Type 1 Diabetes ;pancreatic autoimmunity
+Type 1 Diabetes ;reduced pancreatic beta cells
+Type 1 Diabetes ;insulin-dependent diabetes mellitus
+Type 1 Diabetes ;pancreatic agenesis
+Type 2 Diabetes ;Noninsulin-dependent diabetes
+Type 2 Diabetes ;pancreatic abnormality
+Type 2 Diabetes ;pancreatic failure
+Type 2 Diabetes ;Morbid obesity
+Type 2 Diabetes ;Insulin resistance
+Type 2 Diabetes ;Elevated glucose
+Type 2 Diabetes ;Hyperglycemia
+Type 2 Diabetes ;glucosuria
+Ulcerative Colitis ;gastrointestinal ulceration
+Ulcerative Colitis ;growth failure
+Ulcerative Colitis ;failure to thrive
+Ulcerative Colitis ;arthritis
+Ulcerative Colitis ;B-cell abnormality
+Ulcerative Colitis ;T-cell abnormality
+Ulcerative Colitis ;immunodeficiency
+Ulcerative Colitis ;immune dysregulation
+Ulcerative Colitis ;immunologic hypersensitivity
+Ulcerative Colitis ;defective humoral immunity
+Ulcerative Colitis ;autoimmunity
+Ulcerative Colitis ;autoantibody
+Ulcerative Colitis ;recurrent infection
+Ulcerative Colitis ;intestinal ulceration
+Ulcerative Colitis ;ulcerative colitis
+Ulcerative Colitis ;regional enteritis
